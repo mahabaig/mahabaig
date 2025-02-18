@@ -54,3 +54,4 @@ I am looking to apply my experience in data analysis, network security, and auto
 - [Detection Lab](https://github.com/mahabaig/detection-lab) - A hands-on lab to simulate a real-world network environment for testing security tools.
 - [SOC Automation Project](https://github.com/mahabaig/soc-automation-lab) - Automating SOC tasks and incident response workflows to increase efficiency.
 - [Cybersecurity Data Analysis](https://github.com/mahabaig/cybersecurity-data-analysis) - Data-driven insights into network traffic patterns and threat analysis using Python.
+- Test Project
