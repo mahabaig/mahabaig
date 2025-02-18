@@ -1,3 +1,6 @@
+![Banner](https://github.com/mahabaig/mahabaig/blob/main/Add%20a%20heading.png?raw=true)
+
+
 # Hello, I'm Maha! 
 <a href="https://www.linkedin.com/in/mahabaig"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
